@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env
+
+# Configuration files with secrets
+*.env
+*.config
+
+# Cache files
+*.pyc
+*.pyo
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Common Python artifacts
+*egg-info/
+*.egg
+*.whl
